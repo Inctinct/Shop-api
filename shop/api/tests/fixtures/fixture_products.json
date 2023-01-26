@@ -1,0 +1,16 @@
+[
+  {
+    "model": "api.product",
+    "pk": "1",
+    "fields": {
+      "name": "product123",
+      "description": "test123",
+      "producer": "1",
+      "category": "1",
+      "discount": "1",
+      "price": "5.99",
+      "articul": "123",
+      "count_on_stock": "100"
+    }
+  }
+  ]
